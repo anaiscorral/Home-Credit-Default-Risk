@@ -30,3 +30,9 @@ Objective: Develop a predictive model to assess loan default risk, enabling bett
 - Handling complex datasets with missing values and high cardinality.
 - Comparing and interpreting machine learning models using business-relevant metrics.
 - Translating technical findings into actionable recommendations for stakeholders.
+
+
+### EDA
+
+
+### Findings
